@@ -1,0 +1,29 @@
+{
+  "name": "ticker",
+  "version": "0.0.1",
+  "dependencies": {
+    "raf": "0.0.2"
+  },
+  "readmeFilename": "README.md",
+  "description": "A module for running animation and game loops with browserify.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/ticker.git"
+  },
+  "keywords": [
+    "tick",
+    "frames",
+    "second",
+    "animation",
+    "loop",
+    "game",
+    "events"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT"
+}
