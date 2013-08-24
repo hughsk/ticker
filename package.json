@@ -1,9 +1,7 @@
 {
   "name": "ticker",
   "version": "0.0.1",
-  "dependencies": {
-    "raf": "0.0.2"
-  },
+  "dependencies": {},
   "readmeFilename": "README.md",
   "description": "A module for running animation and game loops with browserify.",
   "main": "index.js",
